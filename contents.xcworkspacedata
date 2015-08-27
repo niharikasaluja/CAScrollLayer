@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:TestApplication/CAScrollLayer/CAScrollLayer"
+      name = "CAScrollLayer">
+      <FileRef
+         location = "group:AppDelegate.swift">
+      </FileRef>
+      <Group
+         location = "group:Base.lproj"
+         name = "Base.lproj">
+         <FileRef
+            location = "group:LaunchScreen.xib">
+         </FileRef>
+         <FileRef
+            location = "group:Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:CAScrollLayer.xcdatamodeld">
+      </FileRef>
+      <Group
+         location = "group:Images.xcassets"
+         name = "Images.xcassets">
+         <Group
+            location = "group:AppIcon.appiconset"
+            name = "AppIcon.appiconset">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+      <FileRef
+         location = "group:ScrollingView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:sky-invasivecode.png">
+      </FileRef>
+      <FileRef
+         location = "group:sky-invasivecode@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:sky-invasivecode@3x.png">
+      </FileRef>
+      <FileRef
+         location = "group:steam-invasivecode.png">
+      </FileRef>
+      <FileRef
+         location = "group:steam-invasivecode@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:steam-invasivecode@3x.png">
+      </FileRef>
+      <FileRef
+         location = "group:train-invasivecode.png">
+      </FileRef>
+      <FileRef
+         location = "group:train-invasivecode@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:train-invasivecode@3x.png">
+      </FileRef>
+      <FileRef
+         location = "group:ViewController.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:ScaryBugs2"
+      name = "ScaryBugs2">
+      <Group
+         location = "group:ScaryBugs2"
+         name = "ScaryBugs2">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:centipede.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:centipedeThumb.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:DetailViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:DetailViewController.m">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:logo1.imageset"
+               name = "logo1.imageset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+               <FileRef
+                  location = "group:logo1.png">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ladybug.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:ladybugThumb.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:logo1.png">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:MasterViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:MasterViewController.m">
+         </FileRef>
+         <FileRef
+            location = "group:potatoBug.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:potatoBugThumb.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:RWTRateView.h">
+         </FileRef>
+         <FileRef
+            location = "group:RWTRateView.m">
+         </FileRef>
+         <FileRef
+            location = "group:RWTUIImageExtras.h">
+         </FileRef>
+         <FileRef
+            location = "group:RWTUIImageExtras.m">
+         </FileRef>
+         <FileRef
+            location = "group:ScaryBugData2.h">
+         </FileRef>
+         <FileRef
+            location = "group:ScaryBugData2.m">
+         </FileRef>
+         <FileRef
+            location = "group:ScaryBugDoc2.h">
+         </FileRef>
+         <FileRef
+            location = "group:ScaryBugDoc2.m">
+         </FileRef>
+         <FileRef
+            location = "group:shockedface2_empty.png">
+         </FileRef>
+         <FileRef
+            location = "group:shockedface2_full.png">
+         </FileRef>
+         <FileRef
+            location = "group:shockedface2_half.png">
+         </FileRef>
+         <FileRef
+            location = "group:wolfSpider.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:wolfSpiderThumb.jpg">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:ScaryBugs2.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:ScaryBugs2Tests"
+         name = "ScaryBugs2Tests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ScaryBugs2Tests.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:FlickerSearch"
+      name = "FlickerSearch">
+      <FileRef
+         location = "group:FlickerSearch.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:FlickerSearchTests"
+         name = "FlickerSearchTests">
+         <FileRef
+            location = "group:FlickerSearchTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:Flo"
+      name = "Flo">
+      <Group
+         location = "group:Flo"
+         name = "Flo">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:CounterView.swift">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:PushButtonView.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PushButtonView2.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Flo.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:FloTests"
+         name = "FloTests">
+         <FileRef
+            location = "group:FloTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:Gallery"
+      name = "Gallery">
+      <FileRef
+         location = "group:Gallery.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:GalleryTests"
+         name = "GalleryTests">
+         <FileRef
+            location = "group:GalleryTests.m">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:iOSDiner"
+      name = "iOSDiner">
+      <FileRef
+         location = "group:iOSDiner.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:iOSDinerTests"
+         name = "iOSDinerTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:iOSDinerTests.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:MoonRunner"
+      name = "MoonRunner">
+      <FileRef
+         location = "group:MoonRunner.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:MoonRunnerTests"
+         name = "MoonRunnerTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:MoonRunnerTests.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:SocialViewIntegration"
+      name = "SocialViewIntegration">
+      <Group
+         location = "group:SocialViewIntegration"
+         name = "SocialViewIntegration">
+         <FileRef
+            location = "group:AppDelegate.h">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.m">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.xib">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:FBImageCollectionViewCell.h">
+         </FileRef>
+         <FileRef
+            location = "group:FBImageCollectionViewCell.m">
+         </FileRef>
+         <FileRef
+            location = "group:ImageCollectionViewCell.h">
+         </FileRef>
+         <FileRef
+            location = "group:ImageCollectionViewCell.m">
+         </FileRef>
+         <Group
+            location = "group:Images.xcassets"
+            name = "Images.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:main.m">
+         </FileRef>
+         <FileRef
+            location = "group:SocialViewIntegration.xcdatamodeld">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SocialViewIntegration.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:SocialViewIntegrationTests"
+         name = "SocialViewIntegrationTests">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SocialViewIntegrationTests.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:CustomMasterDetail/CustomMasterDetail.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:firstProject/firstProject.xcodeproj">
+   </FileRef>
+</Workspace>
